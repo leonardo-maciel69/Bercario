@@ -1,0 +1,14 @@
+intellij.preferences.version=1
+org.intellij.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.intellij.jdt.core.compiler.codegen.targetPlatform=11
+org.intellij.jdt.core.compiler.codegen.unusedLocal=preserve
+org.intellij.jdt.core.compiler.compliance=11
+org.intellij.jdt.core.compiler.debug.lineNumber=generate
+org.intellij.jdt.core.compiler.debug.localVariable=generate
+org.intellij.jdt.core.compiler.debug.sourceFile=generate
+org.intellij.jdt.core.compiler.problem.assertIdentifier=error
+org.intellij.jdt.core.compiler.problem.enablePreviewFeatures=disabled
+org.intellij.jdt.core.compiler.problem.enumIdentifier=error
+org.intellij.jdt.core.compiler.problem.reportPreviewFeatures=warning
+org.intellij.jdt.core.compiler.release=enabled
+org.intellij.jdt.core.compiler.source=11
